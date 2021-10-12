@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{Td:k45dH7Nd{Z,!!nMA" x="20" y="20"><statement name="HANDLER"><block type="device_print_message" id="E^cBkS/YuKJi:,r;:bwu"><value name="text"><shadow type="text" id="Ok86U~Qh([!*qAsIJX9S"><field name="TEXT">¿tengo agua?</field></shadow></value></block></statement></block><block type="device_forever" id="AYVjBA{br|BaV@c8J]vz" x="349" y="54"><statement name="HANDLER"><block type="controls_if" id="~8!Fd(*`8E#}9Q%}wm/F"><value name="IF0"><shadow type="logic_boolean" id="L|DBP3SFOC5EG?}=YfgR"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="fK@}hjrSr`3cO5Ge8jj!"><value name="text"><shadow type="text" id="KM(]72h-~1=w|R}oOc.g"><field name="TEXT">dar le agua despues</field></shadow></value><next><block type="device_show_leds" id="8OftgK$4nn|Yy,SptJB1"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block></statement></block><block type="function_definition" id="Z`Y0$o-_Qj6jOj`U+eYW" x="34" y="206"><mutation name="feliz" functionid="Em-%EW0sQ|Tli_@IiY)#"/><field name="function_name">feliz</field><statement name="STACK"><block type="device_show_leds" id="r46^.6Ydn@BF4R_-1yL#"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block></xml>
